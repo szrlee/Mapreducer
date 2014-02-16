@@ -1,0 +1,68 @@
+These data are handled and sorted
+******Powered by mapreduce****** 
+
+******************************
+Time:190101  Average Temperature:-3
+Time:190102  Average Temperature:-9
+Time:190103  Average Temperature:-4
+Time:190104  Average Temperature:4
+Time:190105  Average Temperature:11
+Time:190106  Average Temperature:17
+Time:190107  Average Temperature:22
+Time:190108  Average Temperature:18
+Time:190109  Average Temperature:12
+Time:190110  Average Temperature:9
+Time:190111  Average Temperature:-2
+Time:190112  Average Temperature:-8
+******************************
+Time:190201  Average Temperature:-6
+Time:190202  Average Temperature:-7
+Time:190203  Average Temperature:-4
+Time:190204  Average Temperature:0
+Time:190205  Average Temperature:8
+Time:190206  Average Temperature:13
+Time:190207  Average Temperature:14
+Time:190208  Average Temperature:13
+Time:190209  Average Temperature:9
+Time:190210  Average Temperature:3
+Time:190211  Average Temperature:-1
+Time:190212  Average Temperature:-6
+******************************
+Time:190301  Average Temperature:-5
+Time:190302  Average Temperature:-2
+Time:190303  Average Temperature:1
+Time:190304  Average Temperature:3
+Time:190305  Average Temperature:11
+Time:190306  Average Temperature:16
+Time:190307  Average Temperature:17
+Time:190308  Average Temperature:14
+Time:190309  Average Temperature:12
+Time:190310  Average Temperature:3
+Time:190311  Average Temperature:1
+Time:190312  Average Temperature:-2
+******************************
+Time:190401  Average Temperature:-2
+Time:190402  Average Temperature:-8
+Time:190403  Average Temperature:-4
+Time:190404  Average Temperature:2
+Time:190405  Average Temperature:7
+Time:190406  Average Temperature:13
+Time:190407  Average Temperature:15
+Time:190408  Average Temperature:14
+Time:190409  Average Temperature:10
+Time:190410  Average Temperature:6
+Time:190411  Average Temperature:-2
+Time:190412  Average Temperature:-5
+******************************
+Time:190501  Average Temperature:-6
+Time:190502  Average Temperature:-4
+Time:190503  Average Temperature:-1
+Time:190504  Average Temperature:1
+Time:190505  Average Temperature:10
+Time:190506  Average Temperature:17
+Time:190507  Average Temperature:17
+Time:190508  Average Temperature:14
+Time:190509  Average Temperature:10
+Time:190510  Average Temperature:3
+Time:190511  Average Temperature:0
+Time:190512  Average Temperature:-2
